@@ -35,3 +35,4 @@ Credits:
 2. Frontend - Hansika Peethala and Hrishita Nanganouri
 3. Backend - Sudharshan Ramadass
 4. Physics calculations - ArshPreet Kaur
+5. Ideation and Research - ArshPreet Kaur
